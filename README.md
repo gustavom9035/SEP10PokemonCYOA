@@ -1,1 +1,3 @@
-# SEp10PokemonCYOA
+# SEP10PokemonCYOA
+--
+[click here]{Alarm}
