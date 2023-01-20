@@ -1,2 +1,2 @@
 # SEP10PokemonCYOA 
-[click here](Start)
+[click here](Start.html)
