@@ -1,2 +1,2 @@
 # SEP10PokemonCYOA 
-[click here](Alarm)
+[click here](Start)
